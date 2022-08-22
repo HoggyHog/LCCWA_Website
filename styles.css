@@ -3,15 +3,7 @@ body{
     padding: 0;
 }
 
-.navbar{
-    height:10vh;
-    width:100vw;
-    background-color: red;
-    
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+
 
 .logo-container{
     height:10vh;
