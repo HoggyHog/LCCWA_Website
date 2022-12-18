@@ -444,4 +444,45 @@ h1 {
 .copyr{
     text-align: center;
     margin-bottom: 5vh;
+    margin-top:5vh;
+}
+
+.center-image{
+    height:50vh;
+    width:70vw;
+    margin: auto;
+}
+
+.team{
+    height:60vh;
+    width:100vw;
+    display: flex;
+}
+
+.team-card{
+    height:100%;
+    width:33%;
+    
+    border:1px solid black
+}
+
+.team-image-div{
+    height: 70%;
+    width:100%;
+}
+
+.team-image{
+    height:100%;
+    width:100%
+}
+
+.team-desc{
+    margin-top:5vh;
+    text-align: center;
+    color: black;
+    font-family:Forum;
+}
+
+.text{
+    text-align: center;
 }
